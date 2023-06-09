@@ -1,0 +1,279 @@
+* {
+    background-color: black;
+   
+}
+
+body {
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+
+.table {
+    margin: auto;
+    justify-content: space-around
+}
+
+.line {
+    margin-bottom: 70px;
+}
+
+.home:hover {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    margin-right: 50px important;
+}
+
+.home {
+    color: red;
+}
+
+.about:hover {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+}
+
+.pb:hover {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+}
+
+.Get:hover {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+}
+
+.FB:hover {
+    display: flex;
+    justify-content: space-around;
+    color: red;
+}
+
+.line {
+    border: 1px solid;
+    color: red;
+}
+
+.well {
+    font-size: 110px;
+    font-weight: 10;
+    margin-bottom: -1px;
+}
+
+.salt-n-pepper-white-text.png {
+    margin-bottom: 500;
+    word-break: break-all;
+}
+
+.Restaurant {
+    margin-top: -2px;
+    margin-bottom: 80px;
+}
+
+.our {
+    color: rgb(253, 255, 240);
+    font-family: sans-serif;
+    font-size: 60 px;
+    font-weight: 200;
+}
+
+.pa {
+    color: gainsboro;
+}
+
+.whitetext {
+    margin-top: 30px;
+}
+
+.res {
+    margin-top: 50px;
+    background-color: ghostwhite;
+}
+
+.express {
+    margin-top: 50px;
+    padding: 40px;
+    background-color: ghostwhite;
+}
+
+.village {
+    margin-top: 50px;
+    padding: 40px;
+    background-color: ghostwhite;
+}
+
+.franchise {
+    color: red;
+    font-size: 60px;
+    margin-top: -10px;
+}
+
+.whiteparagraph {
+    margin-top: -50px;
+}
+
+.lin {
+    margin-top: 50px;
+}
+
+.head1 {
+    font-size: 50px;
+    color: red;
+    font-family: serif;
+}
+
+.OPENING {
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.Screenshot2png {
+    margin-bottom: 80px;
+}
+
+.div {
+    height: 1px;
+    background: red;
+}
+
+.logopng {
+    margin-top: 80px;
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    color: ghostwhite;
+    margin-bottom: 10px;
+}
+
+.saltlogo {
+    margin-left: 0px;
+}
+
+.pic {
+    margin-left: 0px;
+    margin-right: 200px;
+}
+
+.col-1 {
+    margin-top: 20px;
+    font-family: serif;
+    margin-right: 15px;
+}
+
+.oneline {
+    margin-left: 0px;
+}
+
+.twoline {
+    margin-left: 20px;
+}
+
+.threeline {
+    margin-left: 40px;
+}
+
+.fourthline {
+    margin-left: 20px;
+}
+
+.fifthline {
+    margin-right: 15px;
+}
+
+.sixthline {
+    margin-right: 100px;
+}
+
+.div34 {
+    height: 2px;
+    background: red;
+    width: 150px;
+    margin-top: -10px;
+}
+
+.hover:hover {
+    color: red;
+}
+
+.unorderedlist {
+    margin-top: 53px;
+}
+
+.contactus {
+    margin-right: 40px;
+    margin-bottom: auto;
+}
+
+.bw {
+    height: 2px;
+    background: red;
+    width: 140px;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.foodconsults {
+    margin-left: 80px;
+    margin-right: 1px;
+    margin-top: -15px;
+    font-weight: 100;
+}
+
+.FollowUs {
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.betwweeen {
+    height: 2px;
+    background: red;
+    width: 140px;
+    margin-top: -40px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+
+.lastline {
+    background: gray;
+    height: 1px;
+}
+
+.col-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.gap {
+    border-left: 2px solid gray;
+    height: 50px;
+}
+
+.appstore {
+    margin-left: 100px;
+}
+
+.googleplay {
+    margin-left: 90px;
+}
+
+.fbicon {
+    margin-left: 100px;
+
+}
+
+.terms {
+    margin-right: 20px;
+}
+
+.Privacy {
+    margin-left: 20px;
+}
